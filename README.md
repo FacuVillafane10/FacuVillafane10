@@ -16,4 +16,4 @@ Aplicación web para llevar las finanzas del mes: gastos por tarjeta, cuotas, ga
 
 ### 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/facundo-villafa%C3%B1e-676094238/
+- LinkedIn: [Facundo Villafañe](https://www.linkedin.com/in/facundo-villafa%C3%B1e-676094238/)
