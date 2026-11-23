@@ -18,6 +18,8 @@ Tienda online para un emprendimiento de comida casera: los clientes arman su ped
 
 Aplicación web para llevar las finanzas del mes: gastos por tarjeta, cuotas, gastos fijos, ingresos y ahorros en pesos y dólares. Lee el **resumen PDF de la tarjeta de crédito** y carga los consumos solo.
 
+<a href="https://github.com/FacuVillafane10/gastos-personales"><img src="https://raw.githubusercontent.com/FacuVillafane10/gastos-personales/main/docs/celular.jpg" alt="Control de Gastos en el celular" width="640"></a>
+
 `React` · `Node.js` · `Express` · `PostgreSQL` · desplegada en `Vercel` + `Render` + `Neon`
 
 ### 🛠️ Tecnologías
