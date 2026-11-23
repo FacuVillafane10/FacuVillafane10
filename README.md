@@ -22,6 +22,11 @@ Aplicación web para llevar las finanzas del mes: gastos por tarjeta, cuotas, ga
 
 `React` · `Node.js` · `Express` · `PostgreSQL` · desplegada en `Vercel` + `Render` + `Neon`
 
+### 🎓 Formación
+
+- **Carrera de Desarrollo Full Stack**, Coderhouse (agosto 2026), 106 horas a lo largo de 53 semanas: JavaScript, React y desarrollo backend con Node.js.
+- Desarrollo de software profesional desde 2022 en Siscord, con VB.NET y SQL Server.
+
 ### 🛠️ Tecnologías
 
 [![Tecnologías](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,postgres,firebase,git,vercel,netlify)](https://skillicons.dev)
